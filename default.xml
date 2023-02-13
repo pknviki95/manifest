@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote fetch="https://github.com/pknviki95" revision="origin"/>
-  <default name="origin" revision="master"/>
+  <default name="origin" revision="main"/>
 
   <project
 	  name="Devops_study_material"
