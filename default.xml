@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote fetch="https://github.com/pknviki95" revision="origin"/>
+  <remote fetch="https://github.com/pknviki95" name="origin"/>
   <default remote="origin" revision="main"/>
 
   <project
