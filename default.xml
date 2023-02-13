@@ -2,4 +2,9 @@
 <manifest>
   <remote fetch="https://github.com/pknviki95" revision="origin"/>
   <default name="origin" revision="master"/>
+
+  <project
+	  name="Devops_study_material"
+	  path="study_materials/"
+	  revision="5d4af7527d270b3aa7d9551843e12c56726afb62"/>	
 </manifest>
